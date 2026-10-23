@@ -4,11 +4,7 @@ Protótipo de site acessível que mostra **qual hospital está menos cheio**, a 
 
 > ⚠️ **Projeto acadêmico de demonstração.** Hospitais, médicos, horários, lotação e os pontos do mapa são **fictícios**. Não use para decisões de saúde. Em emergência, ligue **192 (SAMU)**.
 
-**Autor:** [Seu nome] · [Curso/Disciplina] · UNAMA · [Professor(a)] · 2026
-
-## Demonstração
-
-Após publicar no GitHub Pages: `https://SEU-USUARIO.github.io/saude-agora/`
+**Autor:** [ASSEM ARTHUR, JERSON CARLOS, JOAO BACELAR, ADOLFO ALEIXO] · [Curso/Disciplina] · UNAMA · 2026  
 
 ## Funcionalidades
 
